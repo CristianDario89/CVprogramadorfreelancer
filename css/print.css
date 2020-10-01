@@ -3,8 +3,7 @@ body {
 	background-color: white;
 	font-size:13pt;
 	line-height: 17pt;
-}
-
+} 
 .clear {
 	clear:both;
 }
@@ -45,7 +44,7 @@ a, a:hover, a:visited, a:active {
 .entry {
 	width:820px;
 	display: block;
-	padding-top:55px;
+	padding-top:35px;
 	clear: both;
 }
 
@@ -133,7 +132,7 @@ ul.info li {
 	width:600px;
 	padding-left:0;
 	background-position: 0 .5em;
-	margin-top:12px;
+	margin-top:3px;
 	list-style-type: square;
 }
 

@@ -135,7 +135,7 @@ a:hover {
 	padding:0;
 	overflow: hidden;
 	padding-bottom:75px;
-	padding-top:7px;
+	 
 }
 
 .paper-bottom {
@@ -152,7 +152,7 @@ a:hover {
 .entry {
 	width:720px;
 	display: block;
-	padding-top:55px;
+	padding-top:35px;
 	clear: both;
 	margin-left:4px;
 }
@@ -203,7 +203,7 @@ div.content {
 	margin:0;
 	overflow: hidden;
 	display:block;
-	padding-top:32px;
+	padding-top:18px;
 }
 
 h3 {
@@ -270,21 +270,21 @@ ol li {
 	list-style-position: inside;
 }
 
-dl {
+dl{
 	float:right;
 	width:500px;
 	margin-left:40px;
 	
 }
 
-dt {
+dt{
 	float:left;
 	display: block;
 	width:500px;
 		color:#ab7979;
 }
 
-dd {
+dd{
 	float:left;
 	display: block;
 	width:480px;
@@ -328,7 +328,7 @@ ul.info li {
 	background-repeat: no-repeat;
 	padding-left:10px;
 	background-position: 0 .5em;
-	margin-top:12px;
+	margin-top:6px;
 }
 
 ul.skills {
@@ -407,7 +407,7 @@ img.portrait {
 	float:left;
 	padding-top:11px;
 	margin-left:38px;
-	margin-bottom:15px;
+	margin-bottom:3px;
 }
 
 .self ul {
